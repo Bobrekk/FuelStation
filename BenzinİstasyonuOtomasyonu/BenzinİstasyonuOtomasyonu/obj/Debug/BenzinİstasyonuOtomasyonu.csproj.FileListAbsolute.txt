@@ -1,0 +1,10 @@
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\obj\Debug\BenzinİstasyonuOtomasyonu.csprojAssemblyReference.cache
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\obj\Debug\BenzinİstasyonuOtomasyonu.Form1.resources
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\obj\Debug\BenzinİstasyonuOtomasyonu.Properties.Resources.resources
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\obj\Debug\BenzinİstasyonuOtomasyonu.csproj.GenerateResource.cache
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\obj\Debug\BenzinİstasyonuOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\bin\Debug\BenzinİstasyonuOtomasyonu.exe.config
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\bin\Debug\BenzinİstasyonuOtomasyonu.exe
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\bin\Debug\BenzinİstasyonuOtomasyonu.pdb
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\obj\Debug\BenzinİstasyonuOtomasyonu.exe
+C:\Users\bkork\source\repos\BenzinİstasyonuOtomasyonu\BenzinİstasyonuOtomasyonu\obj\Debug\BenzinİstasyonuOtomasyonu.pdb
